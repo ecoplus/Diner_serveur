@@ -1,4 +1,4 @@
-package com.cachet.modele;
+package fr.sallafranque.diner.modele;
 
 import java.io.Serializable;
 
