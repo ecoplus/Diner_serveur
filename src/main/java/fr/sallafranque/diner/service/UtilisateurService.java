@@ -9,9 +9,9 @@ import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
 
-import com.cachet.dao.UtilisateurDao;
-import com.cachet.modele.Competition;
-import com.cachet.modele.Utilisateur;
+import fr.sallafranque.diner.dao.UtilisateurDao;
+import fr.sallafranque.diner.modele.Competition;
+import fr.sallafranque.diner.modele.Utilisateur;
 
 @Service
 public class UtilisateurService implements UserDetailsService {

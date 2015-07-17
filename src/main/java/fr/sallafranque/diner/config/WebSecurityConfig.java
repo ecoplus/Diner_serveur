@@ -1,4 +1,4 @@
-package fr.sallafranque.config;
+package fr.sallafranque.diner.config;
 
 import javax.sql.DataSource;
 
