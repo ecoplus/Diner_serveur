@@ -1,0 +1,11 @@
+package com.cachet.modele;
+
+public enum TypeNote {
+	
+	APERITIF_ENTREE,
+	PLAT,
+	DESSERT,
+	TABLE;
+	
+
+}
