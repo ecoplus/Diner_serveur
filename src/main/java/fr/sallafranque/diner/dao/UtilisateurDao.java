@@ -1,4 +1,4 @@
-package fr.sallafranque.dao;
+package fr.sallafranque.diner.dao;
 
 import org.springframework.data.repository.CrudRepository;
 
